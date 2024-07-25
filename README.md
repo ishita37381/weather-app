@@ -22,10 +22,3 @@
 - **Responsive Design**: Further improvements to ensure compatibility across various devices.
 - **Dark Mode**: Add an option to toggle between light and dark modes.
 
-## Installation
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/weather-app.git
